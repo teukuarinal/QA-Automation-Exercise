@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-06-09T07:01:15 ICT" name="Default suite" finished-at="2022-06-09T07:01:32 ICT" duration-ms="16139">
+    <groups>
+    </groups>
+    <test started-at="2022-06-09T07:01:15 ICT" name="Default test" finished-at="2022-06-09T07:01:32 ICT" duration-ms="16139">
+      <class name="qaautomation.tugas4.WebTestYopMail">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:qaautomation.tugas4.WebTestYopMail@20ca951f]" started-at="2022-06-09T07:01:15 ICT" name="setUp" finished-at="2022-06-09T07:01:27 ICT" duration-ms="12066" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testLogin()[pri:0, instance:qaautomation.tugas4.WebTestYopMail@20ca951f]" started-at="2022-06-09T07:01:28 ICT" name="testLogin" finished-at="2022-06-09T07:01:31 ICT" duration-ms="3893" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogin -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:qaautomation.tugas4.WebTestYopMail@20ca951f]" started-at="2022-06-09T07:01:31 ICT" name="tearDown" finished-at="2022-06-09T07:01:32 ICT" duration-ms="51" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- qaautomation.tugas4.WebTestYopMail -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

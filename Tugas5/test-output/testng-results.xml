@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-06-07T05:47:21 ICT" name="Default suite" finished-at="2022-06-07T05:47:34 ICT" duration-ms="13263">
+    <groups>
+    </groups>
+    <test started-at="2022-06-07T05:47:21 ICT" name="Default test" finished-at="2022-06-07T05:47:34 ICT" duration-ms="13263">
+      <class name="qaautomation.tugas5.APITest">
+        <test-method is-config="true" signature="login()[pri:0, instance:qaautomation.tugas5.APITest@74a6f9c1]" started-at="2022-06-07T05:47:21 ICT" name="login" finished-at="2022-06-07T05:47:22 ICT" duration-ms="1256" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="registerAPI()[pri:0, instance:qaautomation.tugas5.APITest@74a6f9c1]" started-at="2022-06-07T05:47:22 ICT" name="registerAPI" finished-at="2022-06-07T05:47:30 ICT" duration-ms="7153" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registerAPI -->
+        <test-method is-config="true" signature="login()[pri:0, instance:qaautomation.tugas5.APITest@74a6f9c1]" started-at="2022-06-07T05:47:30 ICT" name="login" finished-at="2022-06-07T05:47:30 ICT" duration-ms="44" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="registerAPI1()[pri:0, instance:qaautomation.tugas5.APITest@74a6f9c1]" started-at="2022-06-07T05:47:30 ICT" name="registerAPI1" finished-at="2022-06-07T05:47:31 ICT" duration-ms="1534" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registerAPI1 -->
+        <test-method is-config="true" signature="login()[pri:0, instance:qaautomation.tugas5.APITest@74a6f9c1]" started-at="2022-06-07T05:47:31 ICT" name="login" finished-at="2022-06-07T05:47:31 ICT" duration-ms="33" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="registerAPI2()[pri:0, instance:qaautomation.tugas5.APITest@74a6f9c1]" started-at="2022-06-07T05:47:31 ICT" name="registerAPI2" finished-at="2022-06-07T05:47:33 ICT" duration-ms="1601" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registerAPI2 -->
+        <test-method is-config="true" signature="login()[pri:0, instance:qaautomation.tugas5.APITest@74a6f9c1]" started-at="2022-06-07T05:47:33 ICT" name="login" finished-at="2022-06-07T05:47:33 ICT" duration-ms="20" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="registerAPI3()[pri:0, instance:qaautomation.tugas5.APITest@74a6f9c1]" started-at="2022-06-07T05:47:33 ICT" name="registerAPI3" finished-at="2022-06-07T05:47:34 ICT" duration-ms="1454" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registerAPI3 -->
+      </class> <!-- qaautomation.tugas5.APITest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

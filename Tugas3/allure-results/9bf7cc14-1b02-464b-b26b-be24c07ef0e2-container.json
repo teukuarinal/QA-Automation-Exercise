@@ -1,0 +1,1 @@
+{"uuid":"9bf7cc14-1b02-464b-b26b-be24c07ef0e2","name":"qaautomation.tugas3.BaseWebTestHeadless.setUp","description":"","start":1654182571294,"stop":1654182583241,"children":["0ee1e551-92e0-4ce5-9d29-0f4705a008a1"],"befores":[{"name":"setUp","status":"passed","stage":"finished","description":"","start":1654182571294,"stop":1654182583240}]}
