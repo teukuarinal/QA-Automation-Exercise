@@ -19,7 +19,7 @@ Tugas ini berisi tentang :
 
 ## Tugas 4 (UI Test Dengan Selenium)
 Tugas ini berisi tentang :
-- Membuat UI test automation sederhana pada login menggunakan selenium di website [Yop Mail](https://yopmail.com/) dengan menggunakan switch frame dan menambahkan skenario input pada form **Enter Your Inbox Here** dengan **"testautomation"** lalu klik arrow button, maka akan mencetak semua text yang ada di frame dan mengambil (Syso) text dalam inbox.
+- Membuat UI test automation sederhana pada login menggunakan selenium di website [Yop Mail](https://yopmail.com/) dengan menggunakan switch frame dan menambahkan skenario input pada form **Enter Your Inbox Here** dengan **"automationtest"** lalu klik arrow button, maka akan mencetak semua text yang ada di frame dan mengambil (Syso) text dalam inbox.
 - File path tugas tersebut berada di `tugas4/src/test/java/qaautomation/tugas4` dan `tugas4/src/main/java/qaautomation/tugas4`.
 
 ## Tugas 5 API (API Test Dengan Postman dan Selenium)
