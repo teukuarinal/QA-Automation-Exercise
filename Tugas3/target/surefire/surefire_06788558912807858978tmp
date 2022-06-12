@@ -1,0 +1,7 @@
+#surefire_0
+#Sun Jun 12 14:45:09 ICT 2022
+basedir=C\:\\Users\\Anonymous\\eclipse-workspace\\QA-Automation-Exercise\\Tugas3
+user.dir=C\:\\Users\\Anonymous\\eclipse-workspace\\QA-Automation-Exercise\\Tugas3
+suiteXmlFile=Tugas3TestSuite.xml
+env=stage
+localRepository=C\:\\Users\\Anonymous\\.m2\\repository
