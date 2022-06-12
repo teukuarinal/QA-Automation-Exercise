@@ -20,12 +20,16 @@ Tugas ini berisi tentang :
 ## Tugas 4 (UI Test Dengan Selenium)
 Tugas ini berisi tentang :
 - Membuat UI test automation sederhana pada login menggunakan selenium di website [Yop Mail](https://yopmail.com/) dengan menggunakan switch frame dan menambahkan skenario input pada form **Enter Your Inbox Here** dengan **"automationtest"** lalu klik arrow button, maka akan mencetak semua text yang ada di frame dan mengambil (Syso) text dalam inbox.
-- File path tugas tersebut berada di `tugas4/src/test/java/qaautomation/tugas4` dan `tugas4/src/main/java/qaautomation/tugas4`.
+- File path tugas tersebut berada di `Tugas4/src/test/java/qaautomation/tugas4` dan `Tugas4/src/main/java/qaautomation/tugas4`.
 
 ## Tugas 5 API (API Test Dengan Postman dan Selenium)
 Tugas ini berisi tentang :
 - Membuat API test automation sederhana pada register menggunakan selenium di API **Kolak Project**,dimana skenarionya adalah ketika pada **https://kolakproject.herokuapp.com/register** dan mengisi username, password,email, dan phone number dengan random data menggunakan **Faker.java** dan send request POST dengan assert status Code **201**.
-- File path tugas tersebut berada di `tugas5/src/test/java/qaautomation/tugas5`
+- File path tugas tersebut berada di `Tugas5/src/test/java/qaautomation/tugas5`.
 
 ## Tugas 6
 Tugas ini berisi **Push** tugas ke repository ini dan membuat **README.md** nya.
+
+## Tugas 7 (Jenkins)
+- Tugas ini berisi Screenshoot **SUCCESS** Build Project (Tugas3, Tugas4, Tugas5) menggunakan **Jenkins**.
+- File path tugas tersebut berada di `Tugas7`.
