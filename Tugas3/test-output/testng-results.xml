@@ -2,24 +2,24 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-06-11T11:04:21 ICT" name="Default suite" finished-at="2022-06-11T11:04:30 ICT" duration-ms="9816">
+  <suite started-at="2022-06-12T13:55:08 ICT" name="Suite" finished-at="2022-06-12T13:55:17 ICT" duration-ms="9161">
     <groups>
     </groups>
-    <test started-at="2022-06-11T11:04:21 ICT" name="Default test" finished-at="2022-06-11T11:04:30 ICT" duration-ms="9816">
+    <test started-at="2022-06-12T13:55:08 ICT" name="Test" finished-at="2022-06-12T13:55:17 ICT" duration-ms="9161">
       <class name="qaautomation.tugas3.WebTestSauceDemo">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:qaautomation.tugas3.WebTestSauceDemo@74a6f9c1]" started-at="2022-06-11T11:04:21 ICT" name="setUp" finished-at="2022-06-11T11:04:29 ICT" duration-ms="8453" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:qaautomation.tugas3.WebTestSauceDemo@74a6f9c1]" started-at="2022-06-12T13:55:08 ICT" name="setUp" finished-at="2022-06-12T13:55:14 ICT" duration-ms="5609" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="testLogin()[pri:0, instance:qaautomation.tugas3.WebTestSauceDemo@74a6f9c1]" started-at="2022-06-11T11:04:29 ICT" name="testLogin" finished-at="2022-06-11T11:04:30 ICT" duration-ms="1013" status="PASS">
+        <test-method signature="testLogin()[pri:0, instance:qaautomation.tugas3.WebTestSauceDemo@74a6f9c1]" started-at="2022-06-12T13:55:14 ICT" name="testLogin" finished-at="2022-06-12T13:55:17 ICT" duration-ms="2971" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testLogin -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:qaautomation.tugas3.WebTestSauceDemo@74a6f9c1]" started-at="2022-06-11T11:04:30 ICT" name="tearDown" finished-at="2022-06-11T11:04:30 ICT" duration-ms="187" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:qaautomation.tugas3.WebTestSauceDemo@74a6f9c1]" started-at="2022-06-12T13:55:17 ICT" name="tearDown" finished-at="2022-06-12T13:55:17 ICT" duration-ms="205" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- qaautomation.tugas3.WebTestSauceDemo -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
 </testng-results>
