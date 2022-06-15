@@ -36,9 +36,11 @@ Tugas ini berisi tentang :
 - File path tugas tersebut berada di `Tugas7`.
 
 ## Tugas 8 (Jmeter)
-Tugas ini berisi file jmeter **may2022.jmx**. Terdiri dari:
+Tugas ini berisi tentang :
+- Loadtest menggunakan jmeter **may2022.jmx**. Terdiri dari:
 1. **Load Test**
 2. **GraphQL Loadtest**
 3. **Data Base Loadtest**
 4. **Weighted Loadtest**
 5. **Spike Testing**
+- File path tugas tersebut berada di `Tugas8`.
