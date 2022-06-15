@@ -31,5 +31,14 @@ Tugas ini berisi tentang :
 Tugas ini berisi **Push** tugas ke repository ini dan membuat **README.md** nya.
 
 ## Tugas 7 (Jenkins)
-- Tugas ini berisi Screenshoot **SUCCESS** Build Project (Tugas3, Tugas4, Tugas5) menggunakan **Jenkins**.
+Tugas ini berisi tentang :
+- Screenshoot **SUCCESS** Build Project (Tugas3, Tugas4, Tugas5) menggunakan **Jenkins**.
 - File path tugas tersebut berada di `Tugas7`.
+
+## Tugas 8 (Jmeter)
+Tugas ini berisi file jmeter **may2022.jmx**. Terdiri dari:
+1. **Load Test**
+2. **GraphQL Loadtest**
+3. **Data Base Loadtest**
+4. **Weighted Loadtest**
+5. **Spike Testing**
